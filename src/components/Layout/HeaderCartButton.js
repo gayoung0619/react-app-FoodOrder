@@ -6,7 +6,7 @@ const HeaderCartButton = props => {
 			<CartIcon />
 		</span>
 		<span>
-			Your Cart
+			피처2 머지해보기
 		</span>
 		<span className={classes.badge}>
 			3

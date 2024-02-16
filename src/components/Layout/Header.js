@@ -13,6 +13,7 @@ const Header = props => {
 		<div className={classes['main-image']}>
 			<img src={mealsImage} alt="A table full of delicious food" />
 		</div>
+		<h3>피처1 머지</h3>
 	</Fragment>
 };
 

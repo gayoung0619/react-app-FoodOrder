@@ -6,7 +6,7 @@ import classes from "./Header.module.css";
 const Header = props => {
 	return <Fragment>
 		<header className={classes.header}>
-			<h1>리베이스테스트</h1>
+			<h1>피처1</h1>
 			<h2>피처2</h2>
 			<HeaderCartButton />
 		</header>
